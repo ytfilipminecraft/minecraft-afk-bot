@@ -2,13 +2,13 @@
   "__comment_server__": "=== SERVER CONNECTION SETTINGS ===",
   
   "_comment_host": "Your server's IP address or domain (Example: 'server.aternos.me')",
-  "serverHost": "server.aternos.me",
+  "serverHost": "mc.sirsmp.site",
   
   "_comment_port": "Server port. Leave it as 25565 if you don't know (Java default).",
   "serverPort": 25565,
 
   "_comment_version": "Minecraft server version. Example: '1.20.1', '1.19.4', '1.18.2'.",
-  "serverVersion": "1.20.1",
+  "serverVersion": "26.2",
 
   "__comment_bot__": "=== BOT SETTINGS ===",
   
